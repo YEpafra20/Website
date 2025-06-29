@@ -105,7 +105,7 @@ const Footer = (props) => {
         )}
         {youTube && (
           <a
-            href={`https://www.youtube.com/c/${youTube}`}
+            href={`https://www.youtube.com/@yepafra5587?si=ZKxWLGVYWTsn1B5d/${youTube}`}
             target="_blank"
             rel="noopener noreferrer"
           >

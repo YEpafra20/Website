@@ -46,11 +46,14 @@ section img.background {
 }
 
 h1 {
-  font-family: "Cormorant Garamond", serif;
+  font-family: "Time New Roman", Serif;
   font-size: 7rem;
   font-weight: 400;
-  line-height: 0.8;
+  color: rgba(255, 255, 255, 0.718);
+    line-height: 1;
+    white-space: nowrap;
   margin: 0;
+  
 }
 
 h2 {
@@ -122,4 +125,9 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+}
+
+.name {
+  color: #f3ff06;
+  /* or any color you want */
 }
